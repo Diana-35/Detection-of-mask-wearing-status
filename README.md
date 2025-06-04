@@ -1,5 +1,5 @@
 # Detection-of-mask-wearing-status
 Using object detection with YOLO (You Only Look Once)
 
-Actually the file that datasets for this project is too big(About 300MB).
-So you can download my Zip file on your own computer, and you can execute my project.
+The data folder in this project is approximately 300MB, which is too large to upload manually. 
+Please unzip the compressed file and run the project in Google Colab.
